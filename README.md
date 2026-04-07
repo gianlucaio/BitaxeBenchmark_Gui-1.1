@@ -1,4 +1,4 @@
-# Bitaxe Hashrate Benchmark — GUI Edition
+# Bitaxe Hashrate Benchmark — GUI Edition 1.1
 
 A Python-based benchmarking tool with a graphical interface for optimizing Bitaxe mining performance. Tests different voltage and frequency combinations while monitoring hashrate, temperature, and power efficiency — with full support for both **single-chip** (5V barrel jack) and **dual-chip** models (GT 800, GT 801, Duo 650 — 12V XT30).
 
@@ -20,7 +20,7 @@ A Python-based benchmarking tool with a graphical interface for optimizing Bitax
 | Reset to defaults | ❌ | ✅ One-click button |
 | Real-time coloured log | Terminal only | Scrollable log panel |
 | Stop benchmark mid-run | Ctrl+C only | Stop button |
-
+| Full custom setting step voltage-freqency |
 ---
 
 ## Supported models
